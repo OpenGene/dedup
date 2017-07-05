@@ -2,7 +2,7 @@
 A small script for NGS data deduplication, optimized for cfDNA sequencing data
 
 # Dependency
-This script dependson `pysam` module, please install it by `pip` or `easy_install` first
+This script depends on `pysam` module, please install it by `pip` or `easy_install` first
 
 # Usage
 ```shell
